@@ -95,7 +95,8 @@ begin
   river                          = True
   river@gsLineThicknessF         = 2.0       
   river@gsLineColor              = "blue"
-  plotrv = gsn_add_shapefile_polylines(wks,map,"./cnmap_NetCDF/river.nc",river)
+  plotrv = gsn_add_shapefile_polylines(wks,map,"./cnmap_NetCDF/rivers.nc",river)
+ ;plotrv = gsn_add_shapefile_polylines(wks,map,"./cnmap/rivers.shp",river)
 
   draw(map)
   frame(wks)
