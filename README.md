@@ -9,7 +9,8 @@
 ###（一）使用方法
 使用 `git` 下载
 ```
-  git clone https://git.coding.net/huangynj/NCL-Chinamap.git
+  git clone https://github.com/huangynj/NCL-Chinamap.git
+
 ```
 或者直接点击下载按钮打包下载。
 
@@ -60,8 +61,11 @@
 
 2016-05-27：更新北京市界；
 
-2016-07-16：修正一些小 bugs.
+2016-07-16：修正一些小 bugs；
 
+2019-09-17：更新了河流数据 cnmap_NetCDF/rivers.nc；
+
+2020-04-23：将仓库迁到 GitHub。
 
 ### 本地图数据作者保留著作权和最终解释权，本数据可用于教育，科研等非商业用途，若商业用途请提前与本数据作者联系，经允许后方可使用，如有违反，本数据作者保留权利！
 ### 为了表示对贡献者劳动成果的尊重，若使用该地图数据绘图发表论文等，可考虑添加致谢！
@@ -69,10 +73,10 @@
 
 ```
 中文致谢：感谢中国科学院大气物理研究所黄永杰博士提供的包含正确中国国界
-和行政区划的地图数据（https://coding.net/u/huangynj/p/NCL-Chinamap/git）。
+和行政区划的地图数据（https://github.com/huangynj/NCL-Chinamap.git）。
 
 英文致谢：Thank Dr. Yongjie Huang (IAP/CAS) for providing map database 
-(https://coding.net/u/huangynj/p/NCL-Chinamap/git).
+(https://github.com/huangynj/NCL-Chinamap.git).
 
 
 Yong-Jie Huang (IAP/CAS) 
