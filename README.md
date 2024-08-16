@@ -1,6 +1,6 @@
 # NCL-Chinamap
 由于```NCL (NCAR Command Language)```官方提供的地图数据的中国边界等存在问题, 
-根据全国地理信息资源目录服务系统提供的1:100万全国基础地理数据库 ( http://www.webmap.cn/commres.do?method=result100W ),
+根据全国地理信息资源目录服务系统提供的1:100万全国基础地理数据库 (http://www.webmap.cn/commres.do?method=result100W，审图号：GS（2016）2556号),
 对原```NCL```的中国地图数据进行修正，从而能够绘制正确的国界、台湾岛屿、南海诸岛及省界等。
 
 
